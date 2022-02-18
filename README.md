@@ -1,5 +1,5 @@
 # Sketchup
 
-Projetos pessoais de arquitetura de interiories.
+Projetos de móveis para casa.
 
-Arquivos gerados com o Sketchup Make 2017 (free).
+Arquivos gerados com o Sketchup Make 2017 (free version).
